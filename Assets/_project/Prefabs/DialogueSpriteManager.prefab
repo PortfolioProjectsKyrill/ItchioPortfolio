@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &422598914518083416
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 422598914518083398}
+  - component: {fileID: 422598914518083399}
+  m_Layer: 0
+  m_Name: DialogueSpriteManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &422598914518083398
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 422598914518083416}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 960, y: 540, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &422598914518083399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 422598914518083416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e44376636266884a841b3fd6ab49f15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueSpritesList:
+  - speaker: 2
+    nameOfSprite: Judge
+    sprite: {fileID: 21300000, guid: 7cd57f8f2a1f56c4cb6592ca67ed1d0a, type: 3}
+  - speaker: 2
+    nameOfSprite: JudgeIntense
+    sprite: {fileID: 21300000, guid: 0fcbb7a25e7a7784c8139f3ddc90ac55, type: 3}
+  - speaker: 2
+    nameOfSprite: Default
+    sprite: {fileID: 21300000, guid: f7e74d271d64bef45a28bddfe5129739, type: 3}
+  - speaker: 2
+    nameOfSprite: SmileIntense
+    sprite: {fileID: 21300000, guid: 3c1c0c499620c634d9fc41eaa47e761d, type: 3}
+  - speaker: 5
+    nameOfSprite: Default
+    sprite: {fileID: 21300000, guid: a4353810ad1d7d440b8e2d98007c1c59, type: 3}
+  - speaker: 5
+    nameOfSprite: Stare
+    sprite: {fileID: 21300000, guid: be54006fafa4d7745aa3ffdb8af69bc2, type: 3}
+  - speaker: 3
+    nameOfSprite: Stare
+    sprite: {fileID: 21300000, guid: be54006fafa4d7745aa3ffdb8af69bc2, type: 3}
+  - speaker: 1
+    nameOfSprite: Shy
+    sprite: {fileID: 21300000, guid: 1aa40e50eed298947a02b3596203b680, type: 3}
+  - speaker: 1
+    nameOfSprite: Default
+    sprite: {fileID: 21300000, guid: 0a14b882aa7418f4297bb7b49dd0bc29, type: 3}
+  - speaker: 1
+    nameOfSprite: Thinking
+    sprite: {fileID: 21300000, guid: 3c64093345bc67e4eb68b792b7852504, type: 3}
+  - speaker: 1
+    nameOfSprite: ThinkingIntense
+    sprite: {fileID: 21300000, guid: 177a82e0e59a7ae49ad329c3a9a6a35a, type: 3}
+  - speaker: 4
+    nameOfSprite: Default
+    sprite: {fileID: 21300000, guid: 5825dad476ad0b34c8f6f61fae6fbe1a, type: 3}
+  - speaker: 4
+    nameOfSprite: Angry
+    sprite: {fileID: 21300000, guid: 44404e6fbf455f44cb2378b936d8c786, type: 3}
+  - speaker: 3
+    nameOfSprite: Default
+    sprite: {fileID: 21300000, guid: 66d28dc051d80f444b60b1e29d81b997, type: 3}

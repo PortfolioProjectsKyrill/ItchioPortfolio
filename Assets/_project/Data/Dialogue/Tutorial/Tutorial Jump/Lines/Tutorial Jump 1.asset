@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b16739f4c37e5488b9bff72a7f5308, type: 3}
+  m_Name: Tutorial Jump 1
+  m_EditorClassIdentifier: 
+  useBreaks: 1
+  checkPlaceholder: 0
+  textSpeed: 0.02
+  lineFont: {fileID: 11400000, guid: f0a085d5eebc6d64d91f37acfdc96b2f, type: 2}
+  speaker: 1
+  nameOfSprite: Default
+  originalDialogueText: Congrats mate, you did it. Now you can explore an 2D world
+    yet you want to jump dont you?
+  dialogueText: Congrats mate, you did it. Now you can explore an 2D world yet you
+    want to jump dont you?

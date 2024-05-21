@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae1d1dffbe7cc324baeac61bee5807a4, type: 3}
+  m_Name: TestInteraction 1
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - {fileID: 11400000, guid: 8776c1c9976df0a41921aad7c965cf2e, type: 2}
+  - {fileID: 11400000, guid: c974534178f4c70438529d723b3f0c18, type: 2}
+  - {fileID: 11400000, guid: 43dbd08eba4547a438df995560ddcc8c, type: 2}
+  - {fileID: 11400000, guid: 5caea5702d984f6459bd43cbcb5d2bd4, type: 2}
+  dialogueType: 1
+  canPlayerWalk: 0
+  autoSkipText: 0

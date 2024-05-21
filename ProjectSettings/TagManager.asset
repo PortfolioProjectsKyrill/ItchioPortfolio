@@ -3,17 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - TextBox
+  - DialogueText
+  - PopUpDialogueText
+  - CloseUpDialogueText
+  - Pond
+  - KeyBindUI
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Post processing
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Ground
+  - Land
+  - Interactable
   - 
   - 
   - 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b16739f4c37e5488b9bff72a7f5308, type: 3}
+  m_Name: Chamos Line 7
+  m_EditorClassIdentifier: 
+  useBreaks: 1
+  checkPlaceholder: 0
+  textSpeed: 0.005
+  lineFont: {fileID: 0}
+  speaker: 3
+  nameOfSprite: Default
+  originalDialogueText: Maar is oke man, ik heb zijn vlees verkocht aan de Star zusters,
+    heb gecasht.
+  dialogueText: Maar is oke man, ik heb zijn vlees verkocht aan de Star zusters,
+    heb gecasht.
